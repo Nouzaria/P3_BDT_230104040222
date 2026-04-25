@@ -1,6 +1,8 @@
 # 📊 Praktikum 3 — Batch Data Analytics + Visualization Layer
 > **Big Data Dashboard | Microsoft Power BI / Business Intelligence**
-> Program Studi Teknologi Informasi — UIN Antasari | Lecturer: Muhayat, M.IT
+> Author: Achmad Fauzil 'Adhim | NIM: 230104040222
+> Program Studi Teknologi Informasi — UIN Antasari
+> Lecturer: Muhayat, M.IT
 
 ---
 
@@ -200,13 +202,3 @@ Warning ini **aman diabaikan** untuk penggunaan lokal/development. Tidak mempeng
 > untuk mendukung pengambilan keputusan bisnis.
 
 ---
-
-## 📊 Rubrik Penilaian
-
-| Aspek | Skor 1 | Skor 2 | Skor 3 | Skor 4 |
-|---|---|---|---|---|
-| Menjalankan pipeline | Gagal | Sebagian | Berhasil | Sangat lancar |
-| Import dataset | Tidak berhasil | Sebagian | Berhasil | Optimal |
-| KPI visualization | Tidak ada | Kurang jelas | Baik | Sangat jelas |
-| Chart analytics | Tidak ada | Sebagian | Lengkap | Sangat informatif |
-| Layout dashboard | Berantakan | Kurang rapi | Rapi | Profesional |
